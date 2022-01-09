@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rohitsavana
-- 👀 I’m interested in web development, DevOps.
+- 👀 I’m interested in web development, DevOps and Cloud Computing.
 - 🌱 I’m currently learning Full stack web development.
-- 💞️ I’m looking to collaborate on web development and DevOps.
+- 💞️ I’m looking to collaborate on web development, DevOps and Cloud Computing.
 - 📫 How to reach me rohitsavana18@gmail.com
 
 <!---
