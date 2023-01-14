@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Savanarohit
-- 👀 I’m interested in Web development, DevOps and Cloud Computing.
-- 🌱 I’m currently workign as DevOps Engineer II and also learning Full stack web development.
-- 💞️ I’m looking to collaborate on Web development, DevOps and Cloud Computing.
+- 👀 I’m interested in Web development, DevOps.
+- 🌱 I’m currently workign as DevOps Engineer II and also learning Web development.
+- 💞️ I’m looking to collaborate on Web development and DevOps.
 - 📫 How to reach me rohitsavana18@gmail.com
 
 <!---
