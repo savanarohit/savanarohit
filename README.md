@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Savanarohit
-- 👀 I’m interested in Python, Django Framework and DevOps.
-- 🌱 I’m currently workign as DevOps Engineer II and Goal is to become Python Backend Developer.
-- 💞️ I’m looking to collaborate on Python Web development and DevOps.
+- 👀 I'm an enthusiastic learner and aspiring Python developer, constantly immersing myself in the world of coding.
+- 💞️ I’m looking to collaborate on Python and DevOps.
 - 📫 How to reach me rohitsavana18@gmail.com
 
 <!---
