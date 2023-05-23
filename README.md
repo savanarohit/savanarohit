@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Savanarohit
-- 👀 I'm an enthusiastic learner and aspiring Python developer, constantly immersing myself in the world of coding.
+- 👀 I'm an enthusiastic learner and aspiring Python developer.
 - 💞️ I’m looking to collaborate on Python and DevOps.
 - 📫 How to reach me rohitsavana18@gmail.com
 
