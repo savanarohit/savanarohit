@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [Python basics course](https://github.com/savanarohit/Python-Basics-Course)
 
-- 🌱 I’m currently learning **AWS SDK for Python (Boto3)**
+- 🌱 I’m currently learning **Python and AWS SDK for Python (Boto3)**
 
-- 👯 I’m looking to collaborate on [Docker](https://github.com/savanarohit/Docker)
+- 👯 I’m looking to collaborate on [Python](https://github.com/savanarohit/Python-Basics-Course)
 
 - 📝 I write articles on [https://medium.com/@savanarohit](https://medium.com/@savanarohit)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python and AWS SDK for Python (Boto3)**
 
 - 📫 How to reach me **rohitsavana18@gmail.com**
 
