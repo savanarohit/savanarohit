@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Savana Rohit</h1>
-<h3 align="center">Aspiring Python developer passionate about coding and problem-solving.</h3>
+<h3 align="center">Aspiring Python developer passionate about coding, DevOps, and AWS .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savanarohit&label=Profile%20views&color=0e75b6&style=flat" alt="savanarohit" /> </p>
 
