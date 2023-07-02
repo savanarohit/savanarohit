@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Python basics course](https://github.com/savanarohit/Python-Basics-Course)
 
-- 🌱 I’m currently learning **Python and AWS SDK for Python (Boto3)**
+- 🌱 I’m currently learning **Python Software Development**
 
 - 👯 I’m looking to collaborate on [Python](https://github.com/savanarohit/Python-Basics-Course)
 
