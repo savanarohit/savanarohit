@@ -5,22 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=savanarohit" alt="savanarohit" /></a> </p>
 
-- 🔭 I’m currently working on [Python basics course](https://github.com/savanarohit/Python-Basics-Course)
+- 🔭 I’m currently working on [GitHub Pull Request Summary](https://github.com/savanarohit/Githubpullsummary)
 
 - 🌱 I’m currently learning **Python Software Development**
 
-- 👯 I’m looking to collaborate on [Python](https://github.com/savanarohit/Python-Basics-Course)
+- 👯 I’m looking to collaborate on [GitHub Pull Request Summary](https://github.com/savanarohit/Githubpullsummary)
 
 - 📝 I write articles on [https://medium.com/@savanarohit](https://medium.com/@savanarohit)
 
 - 💬 Ask me about **Python | DevOps | AWS SDK (Boto3)**
 
 - 📫 How to reach me **rohitsavana18@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://medium.com/@savanarohit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@savanarohit" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">DevOps:</h3>
 <p align="left"> 
