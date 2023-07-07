@@ -13,7 +13,7 @@
 
 - 📝 I write articles on [https://medium.com/@savanarohit](https://medium.com/@savanarohit)
 
-- 💬 Ask me about **Python | DevOps | AWS SDK (Boto3)**
+- 💬 Ask me about **Python | DevOps | AWS SDK**
 
 - 📫 How to reach me **rohitsavana18@gmail.com**
 
