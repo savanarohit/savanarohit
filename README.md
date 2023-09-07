@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [GitHub Pull Request Summary](https://github.com/savanarohit/Githubpullsummary)
 
-- 🌱 I’m currently learning **Python Software Development**
-
 - 👯 I’m looking to collaborate on [GitHub Pull Request Summary](https://github.com/savanarohit/Githubpullsummary)
 
 - 📝 I write articles on [https://medium.com/@savanarohit](https://medium.com/@savanarohit)
