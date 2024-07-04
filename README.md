@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=savanarohit" alt="savanarohit" /></a> </p>
 
+### Welcome to my GitHub repository! This is where I store projects and code that reflect my interests and skills in DevOps, Python, AWS Cloud, and AWS SDK.
+
 - 🔭 I’m currently working on [GitHub Pull Request Summary](https://github.com/savanarohit/Githubpullsummary)
 
 - 👯 I’m looking to collaborate on [GitHub Pull Request Summary](https://github.com/savanarohit/Githubpullsummary)
@@ -15,7 +17,7 @@
 
 - 📫 How to reach me **rohitsavana18@gmail.com**
 
-### Welcome to my GitHub repository! This is where I store projects and code that reflect my interests and skills in DevOps, Python, AWS Cloud , and AWS SDK.
+
 
 <h3 align="left">DevOps</h3>
 <p align="left"> 
