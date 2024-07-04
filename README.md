@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rohitsavana18@gmail.com**
 
-##### Welcome to my GitHub repository! This is where I store projects and code that reflect my interests and skills in DevOps, Python, AWS Cloud , and AWS SDK.
+## Welcome to my GitHub repository! This is where I store projects and code that reflect my interests and skills in DevOps, Python, AWS Cloud , and AWS SDK.
 
 <h3 align="left">DevOps</h3>
 <p align="left"> 
